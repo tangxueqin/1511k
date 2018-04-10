@@ -9,8 +9,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //哈哈哈哈哈
-        //呵呵呵
+       //你好吗
 
 //        git常用命令
 //
